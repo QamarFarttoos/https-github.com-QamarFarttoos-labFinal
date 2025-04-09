@@ -7,16 +7,16 @@ For this project, I’m building a web app called **GreenGoals**. It’s a habit
 
 The app will allow users to:
 
-- Submit eco-friendly actions they’ve taken through a form.
+- Submit eco-friendly actions they’ve taken through a form as they like anytime they like to.
 - Store that data in an AWS DynamoDB table.
-- View a list of all their logged activities.
-- Delete any entries they no longer want to keep.
+- View a list of all their logged activities anytime intended by the user.
+- Delete any entries they no longer want to keep as choosen by the user.
 - Use a search feature to conditionally retrieve specific types of entries (e.g., only “recycling” logs).
 - View simple charts or stats that summarize their progress (like most common activities, activity counts over time, etc.).
 
 All data interaction will be handled using JavaScript, and the site will be styled with custom CSS.
 
- How It Will Be Structured
+ How It Will Be Structured by me 
 
 The app will be built with at least four separate HTML pages, each with a distinct purpose:
 
@@ -45,9 +45,7 @@ To meet the A-grade requirements, I’m also planning to include:
 - **Custom Styling**: Each page will have its own styling with over 21 different custom CSS styles in total.
 - **Perfect Accessibility Scores**: I’ll make sure every page passes Lighthouse with a 100% accessibility score.
 
-
-
 Why I Chose This Idea
 
-I wanted to make something useful and meaningful, and I think a habit tracker focused on sustainability is a great fit. It gives me a chance to show off form handling, database interaction, conditional retrieval, sanitization, testing, and accessibility—all in one app. Plus, I can make it look really good with a green themed design and fun user experience.
+I wanted to make something useful and meaningful to be used by gneral users that could be students and none students, and I think a habit tracker focused on sustainability is a great fit. It gives me a chance to show off form handling, database interaction, conditional retrieval, sanitization, testing, and accessibility—all in one app. Plus, I can make it look really good with a green themed design and fun user experience.
 
