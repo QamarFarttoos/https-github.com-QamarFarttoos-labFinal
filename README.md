@@ -51,4 +51,11 @@ I wanted to make something useful and meaningful to be used by gneral users that
 
 
 ![image](https://github.com/user-attachments/assets/922805d4-b258-4384-bc9f-e2e0f79f8934)
+![image](https://github.com/user-attachments/assets/c3b4323f-68de-4abb-aa40-2a500f1144bd)
+![image](https://github.com/user-attachments/assets/33e737fb-7110-41d5-83ed-d82d067eb002)
+![image](https://github.com/user-attachments/assets/7258dc7a-0048-4b62-b62f-f90aacf1df00)
+![image](https://github.com/user-attachments/assets/03a99bed-a612-4632-99e9-07626ec41e7d)
+![image](https://github.com/user-attachments/assets/9a0c9268-40cb-4b0e-998b-c91e3504b123)
+
+
 
