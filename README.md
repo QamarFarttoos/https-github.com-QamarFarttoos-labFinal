@@ -1,5 +1,5 @@
 ## Project info
- Project Plan: GreenGoals — A Habit Tracker for Sustainable Living
+ Project Plan: GreenGoals A Habit Tracker for Sustainable Living
 
 For this project, I’m building a web app called **GreenGoals**. It’s a habit-tracking tool that lets users log environmentally friendly actions they take each day—like biking instead of driving, recycling, using reusable bags, etc. The goal is to help users build more sustainable habits by visualizing their impact over time.
 
