@@ -49,3 +49,6 @@ Why I Chose This Idea
 
 I wanted to make something useful and meaningful to be used by gneral users that could be students and none students, and I think a habit tracker focused on sustainability is a great fit. It gives me a chance to show off form handling, database interaction, conditional retrieval, sanitization, testing, and accessibility—all in one app. Plus, I can make it look really good with a green themed design and fun user experience.
 
+
+![image](https://github.com/user-attachments/assets/922805d4-b258-4384-bc9f-e2e0f79f8934)
+
