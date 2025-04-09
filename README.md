@@ -49,5 +49,5 @@ To meet the A-grade requirements, I’m also planning to include:
 
 Why I Chose This Idea
 
-I wanted to make something useful and meaningful, and I think a habit tracker focused on sustainability is a great fit. It gives me a chance to show off form handling, database interaction, conditional retrieval, sanitization, testing, and accessibility—all in one app. Plus, I can make it look really good with a green-themed design and fun user experience.
+I wanted to make something useful and meaningful, and I think a habit tracker focused on sustainability is a great fit. It gives me a chance to show off form handling, database interaction, conditional retrieval, sanitization, testing, and accessibility—all in one app. Plus, I can make it look really good with a green themed design and fun user experience.
 
