@@ -4,7 +4,6 @@
 For this project, I’m building a web app called **GreenGoals**. It’s a habit-tracking tool that lets users log environmentally friendly actions they take each day—like biking instead of driving, recycling, using reusable bags, etc. The goal is to help users build more sustainable habits by visualizing their impact over time.
 
  What the App Will Do
-
 The app will allow users to:
 
 - Submit eco-friendly actions they’ve taken through a form as they like anytime they like to.
@@ -17,7 +16,6 @@ The app will allow users to:
 All data interaction will be handled using JavaScript, and the site will be styled with custom CSS.
 
  How It Will Be Structured by me 
-
 The app will be built with at least four separate HTML pages, each with a distinct purpose:
 
 1. index.html
@@ -36,7 +34,6 @@ The app will be built with at least four separate HTML pages, each with a distin
    I also want to include a simple statistics page that uses charts (probably with Chart.js) to show visual summaries of the user’s habits over time.
    
 Technical Goals
-
 To meet the A-grade requirements, I’m also planning to include:
 
 - **AWS Integration**: All data will be stored and retrieved from AWS DynamoDB.
